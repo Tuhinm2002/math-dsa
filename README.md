@@ -1,4 +1,4 @@
-# 📐 Mastering Mathematics in DSA with Java 🖥️
+# 📐 Mastering Mathematics in DSA with Java 🖥️ 
 
 Welcome to the **Mathematics in Data Structures and Algorithms (DSA)** repository! This repository is dedicated to exploring the mathematical concepts that power efficient algorithms and data structures, implemented using Java. Whether you're new to DSA or looking to deepen your understanding, this guide will help you strengthen your problem-solving skills. 🚀
 
