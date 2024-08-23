@@ -13,7 +13,7 @@ Welcome to the **Mathematics in Data Structures and Algorithms (DSA)** repositor
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/your-username/mathematics-in-dsa-java.git
+    git clone https://github.com/Tuhinm2002/math-dsa.git
     cd mathematics-in-dsa-java
     ```
 
